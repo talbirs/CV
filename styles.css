@@ -1,0 +1,30 @@
+body {
+  background-color: #EAF6F6;
+  font-family: Calibri;
+  line-height: 1.5;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 7px;
+  width: 5%;
+}
+
+h3 {
+  text-decoration: underline;
+  font-weight: bold;
+  color: #66BFBF;
+}
+
+h1 {
+  color: black;
+  font-size: 300%;
+   margin-bottom: 0px;
+}
+
+a {
+  color: blue;
+  font-weight: bold;
+}
